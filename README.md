@@ -20,7 +20,7 @@
 - 📫 Feel free to ping me on <a href="https://www.linkedin.com/in/ShahadatShuvo" target="_blank">LinkedIn</a>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Sohan1997i&theme=radical&show_icons=true&count_private=true&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohan1997i&theme=radical&layout=compact)](https://github.com/Sohan1997i/)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohan1997i&theme=radical&layout=compact)](https://github.com/Sohan1997i/) -->
   
 <h2> Technologies I like to work with ❤️</h2>
  <table>
