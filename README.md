@@ -62,8 +62,8 @@
        <br> Linux
      </td>   
     <td align="center">
-       <img alt="sql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
-       <br> Debian
+       <img alt="mysql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+       <br> MySQL
      </td> 
        <td align="center">
        <img alt="Posql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
