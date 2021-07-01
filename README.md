@@ -4,7 +4,7 @@
 
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+8801990581913&text=Sohan)](https://api.whatsapp.com/send?phone=+8801990581913&text=Sohan)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sohan1997i@gmail.com)](mailto:sohan1997i@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/ShahadatShuvo/)](https://github.com/ShahadatShuvo/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Sohan1997i/)](https://github.com/Sohan1997i/)
   
 
 <h4>I am 💇‍♂️ , a passoniate developer from Bangladesh.I am a Self-taught software Developer. I have a profound knowledge in Django, Javascript & Rest Famework. I love to work with new Technologies and like to learn new things everytime .<h4>
