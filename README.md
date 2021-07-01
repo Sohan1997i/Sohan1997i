@@ -6,8 +6,18 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Sohan1997i/)](https://github.com/Sohan1997i/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+8801990581913&text=Sohan)](https://api.whatsapp.com/send?phone=+8801990581913&text=Sohan)
   
+<a href="https://github.com/ShahadatShuvo/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ShahadatShuvo">
+</a>
 
 <h4>I am 💇‍♂️ , a passoniate developer from Bangladesh.I am a Self-taught software Developer. I have a profound knowledge in Django, Javascript & Rest Famework. I love to work with new Technologies and like to learn new things everytime .<h4>
+  
+  ## About me 
+:heart Programming 👨‍💻 | ✈️ Traveling | :blue_heart: Praying
+- 🔭 I’m currently working on Web Projects
+- 🌱 I’m currently learning Python, Javascript and React (love to learn new Tech and take new challenges) 
+- 💬 Ask me about anything tech related, I am happy to help
+- 📫 Feel free to ping me on <a href="https://www.linkedin.com/in/ShahadatShuvo" target="_blank">LinkedIn</a>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Sohan1997i&theme=radical&show_icons=true&count_private=true&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohan1997i&theme=radical&layout=compact)](https://github.com/Sohan1997i/)
