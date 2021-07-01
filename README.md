@@ -6,16 +6,14 @@
 <a href="https://www.linkedin.com/in/sohanur-rahman-6a5618114/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.facebook.com/tashin.sams/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.instagram.com/rakib_ang/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-
-  
-<a href="https://github.com/ShahadatShuvo/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ShahadatShuvo">
+<a href="https://github.com/Sohan1997i/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Sohan1997i">
 </a>
 
 <h4>I am 💇‍♂️ , a passoniate developer from Bangladesh.I am a Self-taught software Developer. I have a profound knowledge in Django, Javascript & Rest Famework. I love to work with new Technologies and like to learn new things everytime .<h4>
   
   ## About me 
-:heart Programming 👨‍💻 | ✈️ Traveling | :blue_heart: Praying
+:heart: Programming 👨‍💻 | ✈️ Traveling | :blue_heart: Praying
 - 🔭 I’m currently working on Web Projects
 - 🌱 I’m currently learning Python, Javascript and React (love to learn new Tech and take new challenges) 
 - 💬 Ask me about anything tech related, I am happy to help
