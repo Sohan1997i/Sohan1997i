@@ -10,7 +10,7 @@
     <img src="https://komarev.com/ghpvc/?username=Sohan1997i">
 </a>
 
-<h4>I am 💇‍♂️ , a passoniate developer from Bangladesh.I am a Self-taught software Developer. I have a profound knowledge in Django, Javascript & Rest Famework. I love to work with new Technologies and like to learn new things everytime .<h4>
+<h4>I am 💇‍♂️ , a passoniate developer from Bangladesh.I am a Self-taught software Developer. I have a profound knowledge in Django, Odoo & Rest Famework. I love to work with new Technologies and like to learn new things everytime .<h4>
   
   ## About me 
 :heart: Programming 👨‍💻 | ✈️ Traveling | :blue_heart: Praying
